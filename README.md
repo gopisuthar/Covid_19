@@ -138,7 +138,7 @@ USA has recovered with Confirmed cases of Covid-19
 
 # Map Visualization
 
-Look up at Geographically view of Global Covid-19 using folium library and uses <b>OpenStreetMap'</b>
+Look up at Geographically view of Global Covid-19 using folium library and uses <b>OpenStreetMap</b>
 
 <b>Geographic map with Confirmed,Deaths and Mortality Rate of each Country</b>
 
