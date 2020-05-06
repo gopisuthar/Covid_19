@@ -3,7 +3,15 @@
 
 ![](https://raw.githubusercontent.com/gopisuthar/Covid_19/master/Images/COVID19.jpg)
 
-# load libraries
+<b>Dataset I'm using in this Analysis(Raw Data)</b>
+
+https://raw.githubusercontent.com/CSSEGISandData/COVID-19/web-data/data/cases_country.csv
+https://raw.githubusercontent.com/gopisuthar/Covid_19/DataAnalysis/Resources/covid19_Confirmed.csv
+https://raw.githubusercontent.com/gopisuthar/Covid_19/DataAnalysis/Resources/covid19_Recovered.csv
+https://raw.githubusercontent.com/gopisuthar/Covid_19/DataAnalysis/Resources/covid19_Deaths.csv
+
+<b>Load Libraries</b>
+
 1) <b>Pandas</b> for Read CSV File              
 2) <b>Matplotlib</b> for Graphical Visualization                            
 3) <b>Datetime</b> for Convert data in Date/Time Format              
@@ -11,7 +19,6 @@
 5) <b>Folium</b> for Map Visualization
 6) <b>Plotly</b> for High-level Graphical Visualization
 
-# Data Inspection
 ![](https://raw.githubusercontent.com/gopisuthar/Covid_19/master/Images/data_inspection_1.PNG)
 
 ![](https://raw.githubusercontent.com/gopisuthar/Covid_19/master/Images/data_inspection_2.PNG)
