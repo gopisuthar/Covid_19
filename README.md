@@ -45,15 +45,20 @@ https://raw.githubusercontent.com/gopisuthar/Covid_19/DataAnalysis/Resources/cov
 ![](https://raw.githubusercontent.com/gopisuthar/Covid_19/master/Images/data_inspection_9.PNG)
 
  <b>Data Cleaning and Data Preprocessing</b>
+ 
     Lookup for data who creates inconsistency and rename it
+    
 :-) I found those data and made some changes as following:
+
     <b>for Columns:</b>
+    
     Province/State :-> State
     Country/Region :-> Country
   
 ![](https://raw.githubusercontent.com/gopisuthar/Covid_19/master/Images/data_Preprocessing_1.PNG)
 
 <b>for Raw:</b>
+
   US :-> USA
   Korea, South :-> South Korea
   Taiwan* :-> Taiwan
@@ -67,12 +72,14 @@ https://raw.githubusercontent.com/gopisuthar/Covid_19/DataAnalysis/Resources/cov
 ![](https://raw.githubusercontent.com/gopisuthar/Covid_19/master/Images/data_Preprocessing_4.PNG)
 
 <b>Data Analysis</b>
+
 Examine the Global Cases of Covid-19:
 
 As of 04-may-2020 the table illustrates, Total Confirmed, Deaths, Recovered, Active Cases throughout the world
 and the cases are rising rapidly
 
 <b>Covid-19 Global Data</b>
+
 ![](https://raw.githubusercontent.com/gopisuthar/Covid_19/master/Images/data_analysis_1.PNG)
 
  Examine the cases by top 5 Countries by number of Confirmed Cases and we shows USA cases are increasing speedily
@@ -82,11 +89,13 @@ and the cases are rising rapidly
 
  Here we can see that most of the people have died in USA as of rapidly confirmed cases are increased day by day
 and other hand, Mortality Rate is higher in UK with 15.03% 
+
 <b>Top 5 Countries with Death Cases</b>
 
 ![](https://raw.githubusercontent.com/gopisuthar/Covid_19/master/Images/data_analysis_3.PNG)
 
  Now, Extract some of the data from dataset for further analysis and make some new dataframe too
+ 
 <b>Data Over 10000 Confirmed Cases</b>
 
 ![](https://raw.githubusercontent.com/gopisuthar/Covid_19/master/Images/data_analysis_4.PNG)
