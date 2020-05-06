@@ -44,23 +44,26 @@ https://raw.githubusercontent.com/gopisuthar/Covid_19/DataAnalysis/Resources/cov
 
 ![](https://raw.githubusercontent.com/gopisuthar/Covid_19/master/Images/data_inspection_9.PNG)
 
- <b>Data Cleaning and Data Preprocessing</b>
+ # Data Cleaning and Data Preprocessing
  
-    Lookup for data who creates inconsistency and rename it
+   Lookup for data who creates inconsistency and rename it
     
 :-) I found those data and made some changes as following:
 
-    <b>for Columns:</b>
+   <b>for Columns:</b>
     
-    Province/State :-> State
-    Country/Region :-> Country
+   Province/State :-> State
+   
+   Country/Region :-> Country
   
 ![](https://raw.githubusercontent.com/gopisuthar/Covid_19/master/Images/data_Preprocessing_1.PNG)
 
 <b>for Raw:</b>
 
   US :-> USA
+  
   Korea, South :-> South Korea
+  
   Taiwan* :-> Taiwan
   
 ![](https://raw.githubusercontent.com/gopisuthar/Covid_19/master/Images/data_Preprocessing_2.PNG)
@@ -71,7 +74,7 @@ https://raw.githubusercontent.com/gopisuthar/Covid_19/DataAnalysis/Resources/cov
 
 ![](https://raw.githubusercontent.com/gopisuthar/Covid_19/master/Images/data_Preprocessing_4.PNG)
 
-<b>Data Analysis</b>
+# Data Analysis
 
 Examine the Global Cases of Covid-19:
 
