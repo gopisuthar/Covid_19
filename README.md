@@ -86,7 +86,8 @@ and the cases are rising rapidly
 ![](https://raw.githubusercontent.com/gopisuthar/Covid_19/master/Images/data_analysis_1.PNG)
 
  Examine the cases by top 5 Countries by number of Confirmed Cases and we shows USA cases are increasing speedily
-<b>Top 5 Countries with Confirmed Cases</b>
+ 
+<b><font size=2>Top 5 Countries with Confirmed Cases</font></b>
 
 ![](https://raw.githubusercontent.com/gopisuthar/Covid_19/master/Images/data_analysis_2.PNG)
 
