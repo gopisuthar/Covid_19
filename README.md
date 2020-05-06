@@ -120,7 +120,7 @@ and other hand, Mortality Rate is higher in UK with 15.03%
 
 USA has the most active cases, which can be expected due to the slow response on testing procedures and protective measures. There were hundreds of college students and citizens who disregarded the social distancing measures. Some of the affected may not display any symptoms (asymptomatic) along with lack of social distancing could significantly influenced the active cases.
 
-<b>Top 5 Countries with Confirmed Cases</b>
+<b>Top 5 Countries with Active Cases</b>
 
 ![](https://raw.githubusercontent.com/gopisuthar/Covid_19/master/Images/Active.png)
 
@@ -132,7 +132,7 @@ USA has suffered the most deaths followed by UK and Italy.
   
 USA has recovered with Confirmed cases of Covid-19
 
-<b>Top 5 Countries with Deaths Cases</b>
+<b>Top 5 Countries with Recovered Cases</b>
 
 ![](https://raw.githubusercontent.com/gopisuthar/Covid_19/master/Images/Recovered.png)
 
